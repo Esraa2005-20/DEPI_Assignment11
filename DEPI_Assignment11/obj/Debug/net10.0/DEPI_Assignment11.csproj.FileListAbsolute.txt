@@ -1,0 +1,15 @@
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\bin\Debug\net10.0\DEPI_Assignment11.exe
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\bin\Debug\net10.0\DEPI_Assignment11.deps.json
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\bin\Debug\net10.0\DEPI_Assignment11.runtimeconfig.json
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\bin\Debug\net10.0\DEPI_Assignment11.dll
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\bin\Debug\net10.0\DEPI_Assignment11.pdb
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\obj\Debug\net10.0\DEPI_Assignment11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\obj\Debug\net10.0\DEPI_Assignment11.AssemblyInfoInputs.cache
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\obj\Debug\net10.0\DEPI_Assignment11.AssemblyInfo.cs
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\obj\Debug\net10.0\DEPI_Assignment11.csproj.CoreCompileInputs.cache
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\obj\Debug\net10.0\DEPI_Assignment11.dll
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\obj\Debug\net10.0\refint\DEPI_Assignment11.dll
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\obj\Debug\net10.0\DEPI_Assignment11.pdb
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\obj\Debug\net10.0\DEPI_Assignment11.genruntimeconfig.cache
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\obj\Debug\net10.0\ref\DEPI_Assignment11.dll
+C:\Users\win 11\source\repos\DEPI_Assignment11\DEPI_Assignment11\obj\Debug\net10.0\DEPI_Ass.DF5481DA.Up2Date
